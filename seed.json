@@ -1,0 +1,178 @@
+[
+  {
+    "section": "Tools",
+    "name": "Luckin Coffee MCP",
+    "note": "Official MCP for finding Luckin stores, matching coupons, ordering, and pickup codes in mainland China.",
+    "link": "https://open.lkcoffee.com/",
+    "tags": [
+      "MCP",
+      "China errands",
+      "Food"
+    ]
+  },
+  {
+    "section": "Tools",
+    "name": "DiDi MCP",
+    "note": "Official DiDi MCP for fare estimates, ride-hailing, tracking, and cancel in mainland China.",
+    "link": "https://mcp.didichuxing.com/",
+    "tags": [
+      "MCP",
+      "China errands",
+      "Transport"
+    ]
+  },
+  {
+    "section": "Tools",
+    "name": "Amap MCP",
+    "note": "Amap (Gaode) MCP for POI search, routes, and weather in China.",
+    "link": "https://lbs.amap.com/api/mcp-server/gettingstarted",
+    "tags": [
+      "MCP",
+      "China errands",
+      "Maps"
+    ]
+  },
+  {
+    "section": "Tools",
+    "name": "McDonald's China MCP",
+    "note": "Official McDonald's China MCP for dine-in or McDelivery, coupons, and orders.",
+    "link": "https://open.mcd.cn/mcp/",
+    "tags": [
+      "MCP",
+      "China errands",
+      "Food"
+    ]
+  },
+  {
+    "section": "Tools",
+    "name": "Grok Bot Connectors Directory",
+    "note": "Independent directory of MCP connectors for Grok Bot, with install methods and test status.",
+    "link": "https://grokbot.tools/connectors",
+    "tags": [
+      "MCP",
+      "Grok Bot",
+      "Directory"
+    ]
+  },
+  {
+    "section": "Tools",
+    "name": "Official MCP Registry",
+    "note": "Centralized official registry of publicly available Model Context Protocol servers, with search API and install metadata.",
+    "link": "https://registry.modelcontextprotocol.io/",
+    "tags": [
+      "MCP",
+      "Directory",
+      "Official"
+    ]
+  },
+  {
+    "section": "Tools",
+    "name": "mcp.so",
+    "note": "Community directory for discovering and browsing MCP servers across many categories.",
+    "link": "https://mcp.so/",
+    "tags": [
+      "MCP",
+      "Directory",
+      "Community"
+    ]
+  },
+  {
+    "section": "Tools",
+    "name": "Claude Connectors Directory",
+    "note": "Anthropic's catalog of verified and community MCP connectors for Claude products.",
+    "link": "https://claude.com/docs/connectors/directory",
+    "tags": [
+      "MCP",
+      "Directory",
+      "Claude"
+    ]
+  },
+  {
+    "section": "Examples",
+    "name": "gippp69 7-bot launch team",
+    "note": "Public write-up of a 7-bot Grok Bot team (Scout, Pain Miner, Judge, Builder, Pitch, Buyer, Chief) that launches ideas from X with one schedule.",
+    "link": "https://teapawt.org/gippp69",
+    "tags": [
+      "Grok Bot",
+      "Multi-agent",
+      "Example"
+    ]
+  },
+  {
+    "section": "Examples",
+    "name": "One-person company with AI agents",
+    "note": "Guide to running a one-person company with specialized AI agents that draft while the human decides; includes operating numbers from a 114-day run.",
+    "link": "https://bootstrappedmakers.com/blog/run-a-one-person-company-with-ai-agents",
+    "tags": [
+      "One-person company",
+      "Example",
+      "Ops"
+    ]
+  },
+  {
+    "section": "Examples",
+    "name": "Maestro (open-source agent RevOps)",
+    "note": "Open-source multi-agent RevOps platform: specialized sales/marketing agents with orchestration, CRM, and cost tracking.",
+    "link": "https://github.com/MaestroAgent/maestro",
+    "tags": [
+      "Open source",
+      "Multi-agent",
+      "Example"
+    ]
+  },
+  {
+    "section": "Examples",
+    "name": "Maestro marketing agents",
+    "note": "Product site for Maestro's coordinated marketing-agent team (SEO, content, CRO, and more).",
+    "link": "https://www.maestro.is/",
+    "tags": [
+      "Multi-agent",
+      "Marketing",
+      "Example"
+    ]
+  },
+  {
+    "section": "Examples",
+    "name": "One Founder, Eight Agents",
+    "note": "Solo founder using Grok Bot as Mission Control with Claude Code, Codex, and Cursor agents in parallel lanes; includes a 12-step setup you can copy.",
+    "link": "https://jacobarcher.co/writing/one-founder-eight-agents",
+    "tags": [
+      "Grok Bot",
+      "One-person company",
+      "Example"
+    ]
+  },
+  {
+    "section": "Examples",
+    "name": "Twelve Agents and a Founder (Paperclip)",
+    "note": "HeatLens founder running twelve role-based AI agents as staff via Paperclip (open-source agent company tooling with org chart, budgets, and tickets).",
+    "link": "https://danielcoakley.com/showcase/running-an-ai-driven-company",
+    "tags": [
+      "Multi-agent",
+      "One-person company",
+      "Example"
+    ]
+  },
+  {
+    "section": "Skills",
+    "name": "What is an MCP connector",
+    "note": "Plain-English primer on MCP connectors for Grok Bot (built-in plugins vs custom MCP URLs).",
+    "link": "https://grokbot.tools/learn/what-is-an-mcp-connector",
+    "tags": [
+      "Skill",
+      "MCP",
+      "Grok Bot"
+    ]
+  },
+  {
+    "section": "Skills",
+    "name": "Cursor Agent Skills",
+    "note": "Official docs for Agent Skills: portable SKILL.md packages that teach agents specialized multi-step workflows (the pattern Grok Bot skills follow).",
+    "link": "https://cursor.com/docs/skills",
+    "tags": [
+      "Skill",
+      "Cursor",
+      "Grok Bot"
+    ]
+  }
+]
