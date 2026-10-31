@@ -88,6 +88,17 @@
     ]
   },
   {
+    "section": "Tools",
+    "name": "agent-qa",
+    "note": "Natural-language web and mobile QA with a local MCP server, persistent memidex memory, recorded evidence and validated self-improvement.",
+    "link": "https://vostride.com",
+    "tags": [
+      "MCP",
+      "Testing",
+      "Developer tools"
+    ]
+  },
+  {
     "section": "Examples",
     "name": "gippp69 7-bot launch team",
     "note": "Public write-up of a 7-bot Grok Bot team (Scout, Pain Miner, Judge, Builder, Pitch, Buyer, Chief) that launches ideas from X with one schedule.",

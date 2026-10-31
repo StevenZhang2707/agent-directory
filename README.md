@@ -20,7 +20,7 @@ Then visit http://localhost:8000.
 - `index.html` — page structure and accessible controls.
 - `styles.css` — responsive light theme.
 - `app.js` — seed snapshot, rendering, search, and tag filtering.
-- `seed.json` — original source of all 16 directory items.
+- `seed.json` — original source of all 17 directory items.
 
 Search matches names, notes, sections, and tags. Combine it with the tag menu or click a card tag to filter. Press `/` to focus search; use Clear filters to reset. External resource links open in a new tab. To update entries, edit `seed.json` and replace the `items` array at the beginning of `app.js` with that JSON array. The snapshot avoids browser restrictions on fetching JSON when opening `index.html` directly. No external fonts, libraries, or network requests are required to render the directory.
 
